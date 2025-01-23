@@ -2,7 +2,6 @@ package com.jotsons.dynamic_route_optimizer.Controller;
 
 import com.jotsons.dynamic_route_optimizer.Model.Location;
 import com.jotsons.dynamic_route_optimizer.Repository.LocationRepository;
-import com.jotsons.dynamic_route_optimizer.Service.LocationService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
